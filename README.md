@@ -10,7 +10,7 @@
 An aggressive and speedy port scanner, for when you just need info and don't care about being discreet.
 
 ## Usage
-p-dash.py \<ip_address\> \[--all\] \[\{--fast, --medium, --slow\}\] 
+`p-dash.py <ip_address> [--all] [{--fast, --medium, --slow}] `
 
 ## Options
 - `ip_address`: ip address you wish to scan for open ports
